@@ -1,0 +1,2 @@
+# Power-BI-Dashboard-Project-Assessment-Results-of-MBA-Batch-2021-23
+ focuses on creating an interactive dashboard that visualizes the assessment results of the MBA batch of 2021-23 at my college. This project aims to provide detailed insights into the students' performance, offering valuable information to educators and administrators to enhance academic outcomes and support informed decision-making.
